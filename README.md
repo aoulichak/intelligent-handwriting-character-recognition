@@ -27,6 +27,17 @@ Each version is self-contained and includes its own code, model weights, and doc
 ---
 
 ## Features
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pillow-8C8C8C?style=for-the-badge&logo=pillow&logoColor=white" alt="Pillow"/>
+  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5"/>
+</p>
+
 - Handwriting character recognition using deep learning
 - Multiple model architectures (PyTorch, Keras)
 - User-friendly GUI applications for each version
@@ -113,4 +124,8 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+---
+
+© Mohamed Aoulichak, 2025. All rights reserved.
