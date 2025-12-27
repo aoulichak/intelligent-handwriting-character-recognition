@@ -124,8 +124,9 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 ## License
 
-This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This project is licensed under the MIT License.
+See the LICENSE: (https://github.com/aoulichak/intelligent-handwriting-character-recognition/blob/main/LICENSE) file for details.
 
 ---
 
-© Mohamed Aoulichak, 2025. All rights reserved.
+© Mohamed Aoulichak, 2025.
