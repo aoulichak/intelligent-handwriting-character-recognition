@@ -61,7 +61,7 @@ V3/           # Version 3: Advanced model (Keras)
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/intelligent-handwriting-character-recognition.git
+   git clone https://github.com/aoulichak/intelligent-handwriting-character-recognition.git
    cd intelligent-handwriting-character-recognition
    ```
 2. **Install dependencies:**
